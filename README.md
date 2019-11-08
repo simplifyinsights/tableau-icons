@@ -36,3 +36,10 @@ Website: https://www.s-ings.com/typicons
 Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 
 Website: https://guides.github.com/features/mastering-markdown
+
+## Font Awesome (1,547 icons)
+*Uploaded: 8th Nov 2019, file provided by Toan Hoang*
+
+You can place Font Awesome icons just about anywhere using a style prefix and the icon’s name. We’ve tried to make it so that icons will take on the characteristics and appear alongside text naturally.
+
+Website: https://fontawesome.com

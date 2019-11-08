@@ -1,4 +1,4 @@
-# Tableau Icons (4,184 total icons)
+# Tableau Icons
 
 A collection of open-source icons that are freely available for use in your Tableau Dashboards.
 

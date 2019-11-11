@@ -43,3 +43,10 @@ Website: https://guides.github.com/features/mastering-markdown
 You can place Font Awesome icons just about anywhere using a style prefix and the icon’s name. We’ve tried to make it so that icons will take on the characteristics and appear alongside text naturally.
 
 Website: https://fontawesome.com
+
+## Feather (282 icons)
+*Uploaded: 11th Nov 2019, file provided by Toan Hoang*
+
+Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
+
+Website: https://github.com/feathericons/feather

@@ -50,3 +50,17 @@ Website: https://fontawesome.com
 Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency, and flexibility.
 
 Website: https://github.com/feathericons/feather
+
+## BBD Icons (139 icons)
+*Uploaded: 12th Nov 2019, file provided by Toan Hoang*
+
+Created by K Le Blanc and posted on Deviant art, there is a fantastic collection of hand drawn icons for you to use.
+
+Website: https://www.deviantart.com/leblanck/art/BBD-ICONS-Updated-27-08-2011-205275178
+
+## BBD Icons (34 icons)
+*Uploaded: 12th Nov 2019, file provided by Toan Hoang*
+
+Created by Mfayaz and posted on Deviant art, it is a small but lovely set of hand drawn social media icons for you to use.
+
+Website: https://www.deviantart.com/mfayaz/art/FreeHand-ColorStroked-icon-pac-117362788

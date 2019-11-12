@@ -58,7 +58,7 @@ Created by K Le Blanc and posted on Deviant art, there is a fantastic collection
 
 Website: https://www.deviantart.com/leblanck/art/BBD-ICONS-Updated-27-08-2011-205275178
 
-## BBD Icons (34 icons)
+## Freehand Color Stroked Icons (34 icons)
 *Uploaded: 12th Nov 2019, file provided by Toan Hoang*
 
 Created by Mfayaz and posted on Deviant art, it is a small but lovely set of hand drawn social media icons for you to use.

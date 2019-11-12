@@ -2,6 +2,8 @@
 
 A collection of open-source icons that are freely available for use in your Tableau Dashboards.
 
+** This collection is attribution free, but please give credit to those who have created these wonderful icons.**
+
 ## Material Design Icons (1,040 icons)
 *Uploaded: 7th Nov 2019, file provided by Toan Hoang*
 

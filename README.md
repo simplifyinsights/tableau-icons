@@ -73,3 +73,17 @@ Website: https://www.deviantart.com/mfayaz/art/FreeHand-ColorStroked-icon-pac-11
 Created by Pixeden, a set of 40 classy dark social icons come with their a color companion for some striking effect. Ideal to complement any minimalist dark theme of your own. Open the psd file to pick the one you want and easily modify them for your project, or use the prepared png icons.
 
 Website: https://www.pixeden.com/social-icons/dark-social-icons-set
+
+## Cryptocurrency (1,278 icons)
+*Uploaded: 18th Nov 2019, file provided by Toan Hoang*
+
+This is a fantastic set of Cryptocurrency icons that are free for you to use. This comes in Color, Black and White, so there are plenty of options for this.
+
+Website: http://cryptoicons.co, https://github.com/atomiclabs/cryptocurrency-icons
+
+## Googel Emoji (2,818 icons)
+*Uploaded: 18th Nov 2019, file provided by Toan Hoang*
+
+Noto Color Emoji supports all emoji defined in the latest Unicode version (v10.0). This font format is supported on Android and Linux, but doesn’t work on macOS or Windows. Source images and tools for this font can be found in the Noto Emoji GitHub repository.
+
+Website: https://github.com/googlefonts/noto-emoji

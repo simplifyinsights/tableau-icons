@@ -32,13 +32,6 @@ Typicons are free-to-use vector icons embedded in a webfont for easy use in any 
 
 Website: https://www.s-ings.com/typicons
 
-## Devicons (192 icons)
-*Uploaded: 7th Nov 2019, file provided by Toan Hoang*
-
-Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
-
-Website: https://guides.github.com/features/mastering-markdown
-
 ## Font Awesome (1,547 icons)
 *Uploaded: 8th Nov 2019, file provided by Toan Hoang*
 

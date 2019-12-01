@@ -46,6 +46,13 @@ Feather is a collection of simply beautiful open source icons. Each icon is desi
 
 Website: https://github.com/feathericons/feather
 
+## Devicons (192 icons)
+Uploaded: 7th Nov 2019, file provided by Toan Hoang
+
+Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
+
+Website: https://konpa.github.io/devicon
+
 ## BBD Icons (139 icons)
 *Uploaded: 12th Nov 2019, file provided by Toan Hoang*
 

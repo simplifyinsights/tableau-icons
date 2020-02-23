@@ -81,7 +81,7 @@ This is a fantastic set of Cryptocurrency icons that are free for you to use. Th
 
 Website: http://cryptoicons.co, https://github.com/atomiclabs/cryptocurrency-icons
 
-## Googel Emoji (2,818 icons)
+## Google Emoji (2,818 icons)
 *Uploaded: 18th Nov 2019, file provided by Toan Hoang*
 
 Noto Color Emoji supports all emoji defined in the latest Unicode version (v10.0). This font format is supported on Android and Linux, but doesn’t work on macOS or Windows. Source images and tools for this font can be found in the Noto Emoji GitHub repository.
